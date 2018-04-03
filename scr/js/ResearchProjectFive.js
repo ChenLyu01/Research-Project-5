@@ -25,7 +25,7 @@
 		function preload ()
 		{
 			//this.load.setBaseURL('http://localhost/');
-			this.load.setBaseURL('http://www.06-90.com/projects/p4/');
+			this.load.setBaseURL('http://www.06-90.com/projects/p5/');
 			this.load.image('bg', 'image/BG.png');
 			this.load.image('img1', 'image/img1.png');
 			this.load.image('img2', 'image/img2.png');
