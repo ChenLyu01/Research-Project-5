@@ -14,7 +14,7 @@ In the picture below.
 
 ![Image text](https://github.com/ChenLyu01/Research-Project-5/blob/master/img/image1.png) 
 
-We all know that, in the movie, the plots are not easy to change, especially for the videos or short films. I use these beating images to represent different plots. The theme of love should be active, images representing the theme of death or the theme of nuclear weapons should be move slower or even quiescent.
+We all know that, in the movie, the plots are not easy to change, especially for the videos or short films. I use these beating images to represent different plots. The theme of love should be active, images representing the theme of death or the theme of nuclear weapons should be moved slower or even quiescent.
 
 
 ```
@@ -23,7 +23,7 @@ var ctx = canvas.getContext('2d');
 ctx.drawImage(source, 0, 0);
 ```
 
-These three sentences, they mean that the object canvases are created an instantiated the canvas. After the declaration, we can easily use ctx's events to draw graphics. **ctx.drawImage(source, 0, 0)** It means to draw "source[0].image" on X = 0 and Y = 0 coordinate axis.  
+These three sentences, they mean that the object canvases are created an instantiated canvas. After the declaration, we can easily use ctx's events to draw graphics. **ctx.drawImage(source, 0, 0)** It means to draw "source[0].image" on X = 0 and Y = 0 coordinate axis.  
 
 
 
